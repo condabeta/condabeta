@@ -51,7 +51,9 @@ I focus on designing **reliable backend architectures**, **cloud-native infrastr
 
 ### 📊 GitHub Activity
 
-<div display="flex">
+<div dir="auto" style="
+    display: flex;
+">
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=condabeta&show_icons=true&hide_border=true&theme=tokyonight" />
 </p>
