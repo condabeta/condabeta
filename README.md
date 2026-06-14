@@ -51,10 +51,16 @@ I focus on designing **reliable backend architectures**, **cloud-native infrastr
 
 ### 📊 GitHub Activity
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=condabeta&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=condabeta&theme=tokyonight&hide_border=true" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=condabeta&show_icons=true&hide_border=true&theme=tokyonight" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=condabeta&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 
 ---
