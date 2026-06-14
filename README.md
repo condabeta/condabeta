@@ -30,10 +30,10 @@ I focus on designing **reliable backend architectures**, **cloud-native infrastr
 ### ⚙️ Tech Stack
 
 * **Backend:** Node.js · Python · FastAPI · Django
-* **Frontend:** React · TypeScript · JavaScript
+* **Frontend:** React · Vue · Angular · TypeScript · JavaScript
 * **Cloud:** AWS · Docker · Kubernetes
 * **Architecture:** Microservices · Event-Driven Systems · Distributed Systems
-* **Databases:** PostgreSQL · MongoDB · Redis
+* **Databases:** PostgreSQL · MongoDB · MySQL · Redis
 * **DevOps:** CI/CD · GitHub Actions · Infrastructure Automation
 
 ---
@@ -51,13 +51,16 @@ I focus on designing **reliable backend architectures**, **cloud-native infrastr
 
 ### 📊 GitHub Activity
 
-<p align="center">
+<div>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=condabeta&show_icons=true&hide_border=true&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=condabeta&theme=tokyonight&hide_border=true" />
 </p>
+</div>
+
 
 ---
 
