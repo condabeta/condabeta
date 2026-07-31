@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Rolando%20Cruz&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Senior+Full-Stack+Engineer;Cloud-Native+Systems+Architect;Node.js+%7C+Python+%7C+React+%7C+AWS;Distributed+Systems+%7C+Microservices+%7C+APIs" />
 </p>
 
