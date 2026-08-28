@@ -25,7 +25,7 @@ I focus on designing **reliable backend architectures**, **cloud-native infrastr
 
 ### ⚙️ Tech Stack
 
-* **Backend:** Node.js · Python · FastAPI · Django
+* **Backend:** Node.js · PHP · Python · FastAPI · Django
 * **Frontend:** React · Vue · Angular · TypeScript · JavaScript
 * **Cloud:** AWS · Docker · Kubernetes
 * **Architecture:** Microservices · Event-Driven Systems · Distributed Systems
