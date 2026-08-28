@@ -42,31 +42,3 @@ I focus on designing **reliable backend architectures**, **cloud-native infrastr
 * Led migration of legacy systems into containerized cloud-native services
 * Delivered secure, enterprise-grade APIs for mission-critical applications
 * Improved system observability with logging, metrics, and monitoring pipelines
-
----
-
-### 📊 GitHub Activity
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=condabeta&show_icons=true&hide_border=true&theme=tokyonight" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=condabeta&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=condabeta&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
