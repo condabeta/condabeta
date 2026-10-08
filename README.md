@@ -22,9 +22,6 @@ I enjoy solving complex engineering challenges, transforming ideas into robust s
 </p>
 
 
+### 🤝 Let's Connect
 
-📊 GitHub Overview
-
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Most-used programming languages" /> </p>
-
-<p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" alt="GitHub contribution streak" /> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/rolando-cruz-4a9935353"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:rolandocruzsantiago98@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://wa.me/525619383823"> <img src="https://img.shields.io/badge/WhatsApp-Chat%20With%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /> </a> </p>
