@@ -4,41 +4,13 @@
 
 ---
 
-### 👋 About Me
+### Senior Full-Stack Engineer | Backend & Frontend | Cloud & AI
 
-Senior Full-Stack Engineer with 8+ years of experience building scalable, production-grade systems for fintech, healthcare, e-commerce, and enterprise platforms.
-
-I focus on designing **reliable backend architectures**, **cloud-native infrastructure**, and **high-performance web applications** that can scale to millions of users.
+Senior Full-Stack Engineer with 8 years of practical experience designing, building, and scaling modern software applications. Experienced across frontend, backend, APIs, databases, cloud infrastructure, DevOps, and AI-powered solutions, delivering reliable, high-performance systems from concept to production.
 
 ---
+### 🛠️ Tech Stack
 
-### 🧠 What I Do Best
-
-* Architecting scalable backend systems and distributed services
-* Building modern APIs (REST & GraphQL)
-* Designing event-driven microservice architectures
-* Developing responsive, high-performance frontend applications
-* Optimizing system performance, latency, and reliability
-* Delivering production-ready cloud deployments on AWS
-
----
-
-### ⚙️ Tech Stack
-
-* **Backend:** Node.js · PHP · Python · FastAPI · Django
-* **Frontend:** React · Vue · Angular · TypeScript · JavaScript
-* **Cloud:** AWS · Docker · Kubernetes
-* **Architecture:** Microservices · Event-Driven Systems · Distributed Systems
-* **Databases:** PostgreSQL · MongoDB · MySQL · Redis
-* **DevOps:** CI/CD · GitHub Actions · Infrastructure Automation
-
----
-
-### 🚀 Highlights
-
-* Built and scaled backend systems handling millions of requests in production environments
-* Designed event-driven architectures that reduced manual workflows by up to 40%
-* Improved API performance by up to 50% through caching and optimization strategies
-* Led migration of legacy systems into containerized cloud-native services
-* Delivered secure, enterprise-grade APIs for mission-critical applications
-* Improved system observability with logging, metrics, and monitoring pipelines
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vue,nuxt,angular,nodejs,express,nestjs,python,django,fastapi,cs,dotnet,java,spring,postgres,mongodb,redis,mysql,graphql,aws,azure,docker,kubernetes,terraform,git,github,githubactions&perline=12" />
+</p>
