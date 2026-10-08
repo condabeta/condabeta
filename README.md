@@ -5,7 +5,7 @@
 <p align="center"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <img src="https://img.shields.io/badge/Full--Stack-Engineering-007ACC?style=for-the-badge" alt="Full-Stack Engineering" /> <img src="https://img.shields.io/badge/AI-Engineering-8A2BE2?style=for-the-badge" alt="AI Engineering" /> <img src="https://img.shields.io/badge/Cloud--Native-Architecture-00A98F?style=for-the-badge" alt="Cloud-Native Architecture" /> </p>
 
 
-### 🙋‍♂️ ABOUT ME
+### 🙋‍♂️ About Me
 
 Senior Full-Stack AI Engineer with 8 years of software engineering experience, specializing in building scalable web applications, AI-powered products, and cloud-native systems. Experienced in frontend and backend development, system architecture, API design, database optimization, and cloud infrastructure.
 
@@ -20,3 +20,11 @@ I enjoy solving complex engineering challenges, transforming ideas into robust s
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vue,nuxt,angular,nodejs,express,nestjs,python,django,fastapi,cs,dotnet,java,spring,postgres,mongodb,redis,mysql,graphql,aws,azure,docker,kubernetes,terraform,git,github,githubactions&perline=12" />
 </p>
+
+
+
+📊 GitHub Overview
+
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Most-used programming languages" /> </p>
+
+<p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" alt="GitHub contribution streak" /> </p>
