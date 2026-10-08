@@ -22,6 +22,29 @@ I enjoy solving complex engineering challenges, transforming ideas into robust s
 </p>
 
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
-<p align="center"> <a href="https://www.linkedin.com/in/rolando-cruz-4a9935353"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:rolandocruzsantiago98@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://wa.me/525619383823"> <img src="https://img.shields.io/badge/WhatsApp-Chat%20With%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /> </a> </p>
+I'm always open to connecting with engineers, founders, recruiters, and teams building innovative software products and AI-powered solutions. Feel free to reach out to discuss collaboration, technical opportunities, or exciting projects.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rolando-cruz-4a9935353">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rolandocruzsantiago98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/525619383823">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20With%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
+### 📬 Contact Information
+
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/rolando-cruz-4a9935353)
+* **Email:** [rolandocruzsantiago98@gmail.com](mailto:rolandocruzsantiago98@gmail.com)
+* **WhatsApp:** [+52 56 1938 3823](https://wa.me/525619383823)
+
+<p align="center">
+  <em>Let's build something impactful with software engineering and AI.</em>
+</p>
+
